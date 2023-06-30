@@ -1,0 +1,4 @@
+C:/Users/Stefan/Desktop/WorldLines/cmake-build-debug/CMakeFiles/WorldLines.dir
+C:/Users/Stefan/Desktop/WorldLines/cmake-build-debug/CMakeFiles/WL.dir
+C:/Users/Stefan/Desktop/WorldLines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stefan/Desktop/WorldLines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
